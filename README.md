@@ -25,7 +25,7 @@
    <br/>
    <br/>
    <p>🎨 SNS & Portfolio 🎨</p>
-   <a href="[https://www.notion.so/65c86337885641a58f77523b81b5f121](https://coral-papaya-07a.notion.site/65c86337885641a58f77523b81b5f121?pvs=4)">
+   <a href="https://coral-papaya-07a.notion.site/65c86337885641a58f77523b81b5f121?pvs=4">
       <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
    </a>
    <a href="mailto:wjddnwls6556@naver.com">
